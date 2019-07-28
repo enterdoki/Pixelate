@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pixelate/static/css/main.37176730.chunk.css",
+    "main.js": "/Pixelate/static/js/main.10311c1a.chunk.js",
+    "main.js.map": "/Pixelate/static/js/main.10311c1a.chunk.js.map",
+    "runtime~main.js": "/Pixelate/static/js/runtime~main.9d2efa31.js",
+    "runtime~main.js.map": "/Pixelate/static/js/runtime~main.9d2efa31.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/Pixelate/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/Pixelate/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/Pixelate/index.html",
+    "precache-manifest.27a160badb7f10217a9b29707c72e844.js": "/Pixelate/precache-manifest.27a160badb7f10217a9b29707c72e844.js",
+    "service-worker.js": "/Pixelate/service-worker.js",
+    "static/css/main.37176730.chunk.css.map": "/Pixelate/static/css/main.37176730.chunk.css.map",
+    "static/media/App.css": "/Pixelate/static/media/slkscre-webfont.cb58c93d.woff"
+  }
+}
